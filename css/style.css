@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     background: radial-gradient(#4c0c0c,#000);
-    /* padding-top: -30; */
+    padding-top: -30;
 }
 
 .botones{
