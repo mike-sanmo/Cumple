@@ -37,8 +37,7 @@ body{
 }
 
 .greetings{
-    font-size: 7rem;
-    font-weight: 900;
+    font-size: clamp(10px, 4vw + 1rem, 500px);
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
@@ -94,8 +93,7 @@ body{
 }
 
 .greetings2{
-    font-size: 7rem;
-    font-weight: 900;
+    font-size: clamp(10px, 4vw + 1rem, 500px);
 }
 .greetings2 > span{
     animation: glow2 2.5s ease-in-out infinite;
