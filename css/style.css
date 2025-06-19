@@ -38,6 +38,7 @@ body{
 
 .greetings{
     font-size: clamp(10px, 4vw + 1rem, 500px);
+    margin-top: 20px;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
