@@ -37,7 +37,7 @@ body{
 }
 
 .greetings{
-    font-size: clamp(10px, 3vw + 1rem, 500px);
+    font-size: clamp(5px, 3vw + 1rem, 500px);
     margin-top: 100px;
 }
 .greetings > span{
@@ -94,7 +94,7 @@ body{
 }
 
 .greetings2{
-    font-size: clamp(10px, 4vw + 1rem, 500px);
+    font-size: clamp(5px, 3vw + 1rem, 500px);
 }
 .greetings2 > span{
     animation: glow2 2.5s ease-in-out infinite;
